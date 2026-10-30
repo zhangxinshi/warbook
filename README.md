@@ -149,3 +149,7 @@ It is not a generic project-management SaaS; it is a private operating board for
 - 由萌石科技团队维护。
 
 **官网：https://warbook.mengstone.com/**
+
+---
+
+**双语实测页 / Bilingual review:** https://github.com/zhangxinshi/mengstone-site-reviews/blob/main/sites/warbook.md
